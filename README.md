@@ -6,11 +6,6 @@ Screenshots:
 
 <img src="coolcat.png">
 
-LinkedIn OAuth:
-
-<img src="linkedin-auth.png">
-
-
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Obtaining API Keys](#obtaining-api-keys)
