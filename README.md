@@ -4,23 +4,11 @@ The project is a trimmed-down version of a wonderful repo found here: https://gi
 
 Screenshots:
 
-<img src="signin.png">
+<img src="coolcat.png">
 
 LinkedIn OAuth:
 
 <img src="linkedin-auth.png">
-
-Google OAuth:
-
-<img src="google.png">
-
-FB User Page (once logged in):
-
-<img src="fbpage.png">
-
-LinkedIn User Page (once logged in):
-
-<img src="linkedinpage.png">
 
 
 - [Features](#features)
