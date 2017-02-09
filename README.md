@@ -9,7 +9,7 @@ Features and Benefits include:
 
 Screenshots:
 
-<img src="coolcat.png">
+<img src="image (4).png">
 
 - [Features](#features)
 - [Getting Started](#getting-started)
